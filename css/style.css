@@ -652,7 +652,7 @@ body._lock-scroll {
 .footer-menu__set {
   margin-bottom: 16px;
 }
-.footer-sublist__item:not(:last-child) {
+.footer-sublist__item {
   margin-bottom: 16px;
 }
 .footer-field__title:not(:last-child) {
