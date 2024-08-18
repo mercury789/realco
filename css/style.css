@@ -132,6 +132,11 @@ div {
   overflow-wrap: anywhere;
 }
 
+section {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
 :root {
   --color-main: #CF6F49;
   --color-main-light: #cf6f49b7;
